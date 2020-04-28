@@ -77,13 +77,14 @@ a:hover{
 }
 
 footer{
-	background-color: hotpink;
+	background-color: black;
 	text-align: center;
 	padding: 20px;
 }
 
 footer p{
 	margin: 0;
+	color: hotpink;
 }
 
 footer a{
