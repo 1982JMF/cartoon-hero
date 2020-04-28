@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	font-family: Bangers, Arial, sans-serif; 
+	line-height: 30px;
+
+}
+
+header{
+	background-color: pink;
+	text-align: left;
+	padding-top: 70px;
+	padding-bottom: 50px;
+
+}
+
+h1, h2{
+	font-family: 'Fredoka One', cursive;
+}
+
+header h1{
+	color: hotpink;
+	font-size: 50px;
+	padding-left: 60px;
+
+}
+
+header img{
+	border-radius: 400px;
+	width: 300px;
+	border: 3px solid yellow;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100;
+}
+
+h2{
+	font-size: 35px;
+	color: pink;
+	margin: 40px 0 10px;
+}
+
+p{
+	font-size: 20px;
+}
+
+a{
+	color: pink;
+}
+a:hover{
+	color: hotpink;
+}
+
+footer{
+	background-color: pink;
+	text-align: center;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: hotpink;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
