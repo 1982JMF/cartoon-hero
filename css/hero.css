@@ -50,8 +50,8 @@ main img{
 }
 
 main p{
-	padding-left: 25%;
-	max-width: 1000px;
+	padding-left: 0 auto;
+	max-width: 100%;
 	text-align: center;
 }
 h2{
